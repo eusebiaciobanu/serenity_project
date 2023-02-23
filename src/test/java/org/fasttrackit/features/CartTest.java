@@ -23,7 +23,7 @@ public class CartTest {
 
     @Test
     public void addToCartTest(){
-        loginSteps.doLogin("cosmin@fasttrackit.org","123456");
+        loginSteps.doLogin("ciobanueusebia@yahoo.com","Iunie2020");
 
     }
 }

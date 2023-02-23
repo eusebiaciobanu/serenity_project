@@ -26,9 +26,9 @@ public class LoginTest {
     @Test
     public void validLoginTest(){
         loginSteps.navigateToLoginPage();
-        loginSteps.typeUserEmail("cosmin@fasttrackit.org");
-        loginSteps.typePassword("123456");
+        loginSteps.typeUserEmail("ciobanueusebia@yahoo.com");
+        loginSteps.typePassword("Iunie2020");
         loginSteps.clickLogin();
-        loginSteps.userIsLoggedIn("Cosmin Fast");
+        loginSteps.userIsLoggedIn("Ciobanu Eusebia Eusebia");
     }
 }
